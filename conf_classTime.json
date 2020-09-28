@@ -1,0 +1,29 @@
+{
+  "classTime": [
+    {
+        "name":"第1,2节",
+        "startTime":"0800",
+        "endTime":"0945"
+    },
+    {
+        "name":"第3,4节",
+        "startTime":"1015",
+        "endTime":"1200"
+    },
+    {
+        "name":"第5,6节",
+        "startTime":"1345",
+        "endTime":"1530"
+    },
+    {
+        "name":"第7,8节",
+        "startTime":"1545",
+        "endTime":"1730"
+    },
+    {
+        "name":"第9,10,11节",
+        "startTime":"1830",
+        "endTime":"2120"
+    }
+  ]
+}
